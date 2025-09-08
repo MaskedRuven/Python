@@ -6,3 +6,18 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual envs
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
