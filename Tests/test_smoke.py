@@ -3,3 +3,6 @@ def test_addition():
 
 def test_uppercase():
     assert "qa".upper() == "QA"
+
+def test_subtraction():
+    assert 5 - 3 == 2
